@@ -150,7 +150,6 @@ function sampletheme_scripts() {
 	wp_enqueue_style('foundation-style', get_template_directory_uri() . '/assests/css/vendor/foundation.css');
 	wp_enqueue_style('foundation-script', get_template_directory_uri() . '/assests/js/vendor/foundation.js');
 
-
 	//bootstrap
 	//wp_enqueue_style('bootstrap-style', get_template_directory_uri() . '/assests/css/vendor/bootstrap.min.css');
 	//wp_enqueue_script('bootstrap-script', get_template_directory_uri() . '/assests/js/vendor/bootstrap.min.js');
