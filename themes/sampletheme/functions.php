@@ -145,6 +145,7 @@ function sampletheme_scripts() {
 
 	wp_enqueue_script( 'sampletheme-navigation', get_template_directory_uri() . '/js/navigation.js', array(), _S_VERSION, true );
 
+	
 	//foundation
 	
 	wp_enqueue_style('foundation-style', get_template_directory_uri() . '/assests/css/vendor/foundation.css');
