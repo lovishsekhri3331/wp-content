@@ -488,7 +488,7 @@ ol {
 }
 
 ul {
-	list-style: disc;
+	list-style: e;
 }
 
 ol {
@@ -533,11 +533,9 @@ table {
 /* Links
 --------------------------------------------- */
 a {
-	color: #4169e1;
-}
+	color: #fff;
+	text-shadow: 1px 1px 1px rgb(113, 113, 113);
 
-a:visited {
-	color: #800080;
 }
 
 a:hover,
@@ -659,6 +657,9 @@ header{
 }
 .menu{    
 	margin-top: 14px;
+}
+.primary-menu li{
+	color:white;
 }
 
 .main-navigation ul {
@@ -904,6 +905,13 @@ header{
 /* Re-display the Theme Footer when Infinite Scroll has reached its end. */
 .infinity-end.neverending .site-footer {
 	display: block;
+}
+
+.site-footer{
+	padding-top:0.1px ;
+	height:50px;
+	text-align: center;
+	background-color: #9e9d9d;
 }
 
 /*--------------------------------------------------------------

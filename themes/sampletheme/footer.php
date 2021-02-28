@@ -11,8 +11,8 @@
 
 ?>
 	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			
+		<div class="site-info site-footer">
+			<p>Copyright © 2020 Frost company. All rights reserved.</p>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
