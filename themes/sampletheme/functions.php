@@ -89,7 +89,7 @@ if ( ! function_exists( 'sampletheme_setup' ) ) :
 		/**
 		 * Add support for core custom logo.
 		 *
-		 * @link https://codex.wordpress.org/Theme_Logo
+		 * @link img/
 		 */
 		add_theme_support(
 			'custom-logo',
