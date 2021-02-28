@@ -647,9 +647,18 @@ textarea {
 
 /* Navigation
 --------------------------------------------- */
+header{
+	display: flex;
+	justify-content: space-around;
+}
 .main-navigation {
-	display: block;
-	width: 100%;
+	width: 58%;
+}
+.site-branding{
+	width: 40%;
+}
+.menu{    
+	margin-top: 14px;
 }
 
 .main-navigation ul {
@@ -698,6 +707,7 @@ textarea {
 }
 
 /* Small menu. */
+
 .menu-toggle,
 .main-navigation.toggled ul {
 	display: block;
@@ -711,6 +721,7 @@ textarea {
 
 	.main-navigation ul {
 		display: flex;
+		justify-content: space-around;
 	}
 }
 
@@ -801,6 +812,9 @@ textarea {
 /* Make sure logo link wraps around logo image. */
 .custom-logo-link {
 	display: inline-block;
+	margin-left: 10px;
+    margin-top: 5px;
+
 }
 
 /* Captions
@@ -919,7 +933,7 @@ textarea {
 	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
 	clip: auto !important;
 	clip-path: none;
-	color: #21759b;
+	color: #b7ecf0;
 	display: block;
 	font-size: 0.875rem;
 	font-weight: 700;
