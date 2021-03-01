@@ -56,6 +56,7 @@
 		);
 		?>
 	</div><!-- .entry-content -->
+	
 
 	<footer class="entry-footer">
 		<?php sampletheme_entry_footer(); ?>
