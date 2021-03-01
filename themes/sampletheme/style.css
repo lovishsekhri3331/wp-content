@@ -1031,3 +1031,7 @@ a {
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button{
 	color: white;
 }
+.wp-block-image{
+	margin-bottom: 1em;
+    text-align: center;
+}
