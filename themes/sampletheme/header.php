@@ -25,24 +25,27 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'sampletheme' ); ?></a>
 	<header id="masthead" class="site-header grid-x grid-container">
-		<div class="site-branding cell large-6">
-			<?php
-			the_custom_logo();
-			?>
-				
-		</div><!-- .site-branding -->
+		<div class="header-shipping" style="">Free Curbside pickup available</div>
+		<div class="header-first">
+			<div class="site-branding cell large-6">
+				<?php
+				the_custom_logo();
+				?>
+					
+			</div><!-- .site-branding -->
 
-		<nav id="site-navigation" class="main-navigation cell large-6">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'sampletheme' ); ?></button>
-			<?php
-			wp_nav_menu(
-				array(
-					'theme_location' => 'menu-1' ,
-					'menu_id'        => 'primary-menu',
-				)  
-			);
-			?>    
-		</nav><!-- #site-navigation -->
+			<nav id="site-navigation" class="main-navigation cell large-6">
+				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'sampletheme' ); ?></button>
+				<?php
+				wp_nav_menu(
+					array(
+						'theme_location' => 'menu-1' ,
+						'menu_id'        => 'primary-menu',
+					)  
+				);
+				?>    
+			</nav><!-- #site-navigation -->
+		</div>
 	</header><!-- #masthead -->
 
 
