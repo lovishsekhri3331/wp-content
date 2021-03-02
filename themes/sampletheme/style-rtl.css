@@ -959,3 +959,6 @@ textarea {
 	margin-left: auto;
 	margin-bottom: 1.5em;
 }
+.navigation .post-navigation{
+	display: none;
+}
