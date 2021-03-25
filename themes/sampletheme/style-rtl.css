@@ -651,10 +651,11 @@ textarea {
 	display: block;
 	width: 100%;
 }
-.menu-menu-1-container{
+.menu-menu-1-container .menu .nav-menu{
 	margin-top: 14px !important;
 	/* added margin-top: to setle the margin-top */
 }
+
 
 .main-navigation ul {
 	display: none;
