@@ -1002,6 +1002,7 @@ textarea {
 .add_to_cart_button{
 	background: #91ced3;
 }
+/* link style set to none */
 a {
 	text-decoration: none;
 }
@@ -1013,21 +1014,25 @@ a {
 	background-color: #91ced3;
 	border-radius: 120px;
 }
+
 .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt{
 	background-color: #91ced3;
 	border-radius: 120px;
 	box-shadow: 1px 1px 7px gray;
 	margin-left: 20px;
 }
+/* Hover added for trhe woocommerce hover */
 .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover{
 	background-color: #66bbc2;
 	border-radius: 120px;
 	box-shadow: 1px 1px 7px gray;
 	margin-left: 20px;
 }
+/* post-navigation */
 .navigation .post-navigation{
 	display: none;
 }
+/* Quantity margin  */
 .woocommerce div.product form.cart div.quantity{
 	margin: 0 4px 0 10px;
 }
