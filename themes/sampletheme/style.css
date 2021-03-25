@@ -1071,14 +1071,11 @@ div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms
 	text-align: center;
 }
 .wc-block-grid__products{
+	box-shadow:1px 2px 10px rgb(156 156 156);
 }
 
 .wc-block-grid__product{
-	width: 90%;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	padding: 3px;
-	margin:5px;
-	box-shadow:1px 2px 10px rgb(156 156 156);
 }
