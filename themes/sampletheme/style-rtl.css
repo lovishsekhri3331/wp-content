@@ -651,6 +651,10 @@ textarea {
 	display: block;
 	width: 100%;
 }
+.menu-menu-1-container{
+	margin-top: 14px !important;
+	/* added margin-top: to setle the margin-top */
+}
 
 .main-navigation ul {
 	display: none;
@@ -659,7 +663,9 @@ textarea {
 	padding-right: 0;
 }
 
-.main-navigation ul ul {
+.main-navigation ul ul {@media screen and (min-width: 37.5em)
+	.main-navigation ul
+	margin-top:14px;   
 	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
 	float: right;
 	position: absolute;
