@@ -28,3 +28,9 @@
 
 2021-03-25T19:11:50+00:00 CRITICAL syntax error, unexpected 'the_excerpt' (T_STRING), expecting '(' in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 33
 
+2021-03-25T19:30:58+00:00 CRITICAL Cannot redeclare get_post_permalink() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/link-template.php:319) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 28
+
+2021-03-25T19:30:58+00:00 CRITICAL Cannot redeclare get_post_permalink() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/link-template.php:319) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 28
+
+2021-03-25T19:30:58+00:00 CRITICAL Cannot redeclare get_post_permalink() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/link-template.php:319) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 28
+

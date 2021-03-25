@@ -25,12 +25,18 @@ $recipe_query = new WP_Query($recipe_args);
 if($recipe_query->have_posts()){
 
 	while($recipe_query->have_posts()){
+		
 
 		$recipe_query->the_post()
 
 		?>
 		<h2><?php the_title();?></h2>
+		<section class="entry-content">
+        <?php the_excerpt(); ?>
+		<?php the_post_thumbnail(); ?>
+	</section>
 		<?php
+		
 		
 		
 	}
