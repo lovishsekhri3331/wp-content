@@ -990,7 +990,7 @@ textarea {
 	margin-left: 1.5em;
 	margin-bottom: 1.5em;
 }
-
+/* Align center class to centeraliz items */
 .aligncenter {
 	clear: both;
 	display: block;
@@ -998,7 +998,7 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
-
+/* Add to to cart button background-color */
 .add_to_cart_button{
 	background: #91ced3;
 }
@@ -1006,9 +1006,11 @@ textarea {
 a {
 	text-decoration: none;
 }
+/* product types color added */
 .wc-block-grid__product-title{
 	color: #91ced3;
 }
+/* Button woocommerces */
 .woocommerce ul.products li.product .button
 {
 	background-color: #91ced3;
