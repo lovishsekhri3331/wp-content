@@ -15,7 +15,7 @@
 
 $recipe_args = array (
 
-    'post_type' => 'lovishtheme_recipe',
+    'post_type' => 'lovishtheme_surfer',
 	'posts_per_page' => 3,
 
 );
