@@ -1,0 +1,30 @@
+2021-03-25T19:09:38+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:09:38+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:09:38+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:09:38+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:09:39+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:09:39+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:11:27+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:11:27+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:11:27+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 34
+
+2021-03-25T19:11:39+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 28
+
+2021-03-25T19:11:39+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 28
+
+2021-03-25T19:11:39+00:00 CRITICAL Cannot redeclare the_excerpt() (previously declared in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/post-template.php:383) in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 28
+
+2021-03-25T19:11:50+00:00 CRITICAL syntax error, unexpected 'the_excerpt' (T_STRING), expecting '(' in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 33
+
+2021-03-25T19:11:50+00:00 CRITICAL syntax error, unexpected 'the_excerpt' (T_STRING), expecting '(' in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 33
+
+2021-03-25T19:11:50+00:00 CRITICAL syntax error, unexpected 'the_excerpt' (T_STRING), expecting '(' in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 33
+

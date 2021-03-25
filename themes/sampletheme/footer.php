@@ -31,7 +31,10 @@ if($recipe_query->have_posts()){
 		?>
 		<h2><?php the_title();?></h2>
 		<?php
+		
+		
 	}
+	
 }
 
 
