@@ -1031,9 +1031,11 @@ a {
 .woocommerce div.product form.cart div.quantity{
 	margin: 0 4px 0 10px;
 }
+/* Main site paddding  */
 .site-main{
 	padding: 0 20px;
 }
+/* Inpur button color added */
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button{
 	color: white;
 }
@@ -1041,6 +1043,7 @@ a {
 	margin-bottom: 1em;
     text-align: center;
 }
+/* Styles for header shipping */
 .header-shipping{
 	text-align:center;
 	background-color:black;
