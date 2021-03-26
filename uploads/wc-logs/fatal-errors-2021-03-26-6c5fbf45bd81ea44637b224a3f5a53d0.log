@@ -1,0 +1,60 @@
+2021-03-26T00:05:56+00:00 CRITICAL Uncaught Error: Call to undefined function post_type_link() in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php:37
+Stack trace:
+#0 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(676): load_template('/Users/lovishse...', true, Array)
+#2 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/page.php(38): get_footer()
+#4 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template-loader.php(106): include('/Users/lovishse...')
+#5 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-blog-header.php(19): require_once('/Users/lovishse...')
+#6 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/index.php(17): requir in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 37
+
+2021-03-26T00:05:56+00:00 CRITICAL Uncaught Error: Call to undefined function post_type_link() in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php:37
+Stack trace:
+#0 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(676): load_template('/Users/lovishse...', true, Array)
+#2 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/404.php(60): get_footer()
+#4 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template-loader.php(106): include('/Users/lovishse...')
+#5 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-blog-header.php(19): require_once('/Users/lovishse...')
+#6 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/index.php(17): require in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 37
+
+2021-03-26T00:05:56+00:00 CRITICAL Uncaught Error: Call to undefined function post_type_link() in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php:37
+Stack trace:
+#0 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(676): load_template('/Users/lovishse...', true, Array)
+#2 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/404.php(60): get_footer()
+#4 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template-loader.php(106): include('/Users/lovishse...')
+#5 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-blog-header.php(19): require_once('/Users/lovishse...')
+#6 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/index.php(17): require in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 37
+
+2021-03-26T00:12:14+00:00 CRITICAL Uncaught Error: Call to undefined function mfn_post_navigation_header() in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php:42
+Stack trace:
+#0 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(676): load_template('/Users/lovishse...', true, Array)
+#2 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/page.php(38): get_footer()
+#4 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template-loader.php(106): include('/Users/lovishse...')
+#5 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-blog-header.php(19): require_once('/Users/lovishse...')
+#6 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/index.php in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 42
+
+2021-03-26T00:12:14+00:00 CRITICAL Uncaught Error: Call to undefined function mfn_post_navigation_header() in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php:42
+Stack trace:
+#0 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(676): load_template('/Users/lovishse...', true, Array)
+#2 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/404.php(60): get_footer()
+#4 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template-loader.php(106): include('/Users/lovishse...')
+#5 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-blog-header.php(19): require_once('/Users/lovishse...')
+#6 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/index.php( in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 42
+
+2021-03-26T00:12:14+00:00 CRITICAL Uncaught Error: Call to undefined function mfn_post_navigation_header() in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php:42
+Stack trace:
+#0 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template.php(676): load_template('/Users/lovishse...', true, Array)
+#2 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#3 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/404.php(60): get_footer()
+#4 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-includes/template-loader.php(106): include('/Users/lovishse...')
+#5 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-blog-header.php(19): require_once('/Users/lovishse...')
+#6 /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/index.php( in /Users/lovishsekhri/Local Sites/frostsnowboards/app/public/wp-content/themes/sampletheme/footer.php on line 42
+

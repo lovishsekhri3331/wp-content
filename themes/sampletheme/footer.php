@@ -13,27 +13,33 @@
 
 <?php 
 
-$recipe_args = array (
+$surfer_args = array (
 
     'post_type' => 'lovishtheme_surfer',
 	'posts_per_page' => 3,
 
 );
 
-$recipe_query = new WP_Query($recipe_args);
+$surfer_query = new WP_Query($surfer_args);
 
-if($recipe_query->have_posts()){
+if($surfer_query->have_posts()){
 
-	while($recipe_query->have_posts()){
+	while($surfer_query->have_posts()){
 		
 
-		$recipe_query->the_post()
+		$surfer_query->the_post()
 
 		?>
-		<h2><?php the_title();?></h2>
+		<h2 style="text-align:center;"><?php the_title();?></h2>
 		<section class="entry-content">
-        <?php the_excerpt(); ?>
 		<?php the_post_thumbnail(); ?>
+        <?php the_excerpt(); ?>
+		<?php 
+			// Get the current post type
+		$postType = get_post_type();
+		echo '<a href="' . get_post_type_archive_link($postType) . '">Visit Post</a>';
+		?>
+
 	</section>
 		<?php
 		
