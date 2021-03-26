@@ -1079,3 +1079,7 @@ div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms
 	flex-direction: column;
 	justify-content: space-between;
 }
+.wc-block-grid__product-title{
+	stroke: 2px rgb(156 156 156);
+	color:#66bbc2;
+}
