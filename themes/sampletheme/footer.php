@@ -36,11 +36,13 @@
 				<section class="entry-content">
 				<?php the_post_thumbnail(); ?>
 				<?php the_excerpt(); ?>
+				<div class="visit-link">
 				<?php 
 					// Get the current post type
 				$postType = get_post_type();
 				echo '<a href="' . get_post_type_archive_link($postType) . '">Visit Post</a>';
 				?>
+				</div>
 
 			</section>
 			</div>

@@ -197,12 +197,15 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 }
 
 flush_rewrite_rules( false );
-if ( is_front_page() && is_home() ) {
-	// Default homepage
-  } elseif ( is_front_page() ) {
-	// static homepage
-  } elseif ( is_home() ) {
-	// blog page
-  } else {
-	//everything else
-  }
+// Conditions added for to show the blog post on Custom surfers page post page
+
+
+	if ( is_front_page() && is_home() ) {
+		// Default homepage
+	} elseif ( is_front_page() ) {
+		// static homepage
+	} elseif ( is_home() ) {
+		// blog page
+	} else {
+		//everything else
+	}

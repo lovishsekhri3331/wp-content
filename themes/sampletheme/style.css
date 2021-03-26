@@ -1085,7 +1085,14 @@ div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms
 }
 .Footer_WPQuery{
 	width:30%;
-	
+	box-shadow:1px 2px 10px rgb(156 156 156);
+	margin-bottom: 20px;
+	transition: transform 0.5s;
+}
+
+.Footer_WPQuery:hover{
+	width:30%;
+	transform: scale(1.04);
 }
 .WP-post{
 	display: flex;
@@ -1094,4 +1101,14 @@ div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms
 .site-footer{
 	width: 100%;
 	background:#9e9d9d;
+}
+.visit-link{
+	border-radius: 20px;
+	background: #91ced3;
+}
+.visit-link:hover{
+	background:rgb(97, 137, 141);
+}
+.visit-link a{
+	color: white !important;
 }
