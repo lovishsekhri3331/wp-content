@@ -1083,3 +1083,15 @@ div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms
 	stroke: 2px rgb(156 156 156);
 	color:#66bbc2;
 }
+.Footer_WPQuery{
+	width:30%;
+	
+}
+.WP-post{
+	display: flex;
+	justify-content: space-around;
+}
+.site-footer{
+	width: 100%;
+	background:#9e9d9d;
+}
