@@ -1117,3 +1117,20 @@ div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms
 .visit-link a{
 	color: white !important;
 }
+.div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button {
+	border-radius: 20px !important;
+	background: #91ced3 !important;
+	color:white;
+	width: 120px;
+}
+.wpforms-field-required{
+	color: wheat !important;
+}
+#place_order{
+	width:100%;
+}
+.additional-information {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 180px;
+}
